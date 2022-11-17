@@ -10,6 +10,14 @@
         margin: 0 !important;
         padding: 0 !important;
     }
+
+    #box-1_A {
+        grid-template-columns: auto !important;
+    }
+
+    #box-1_A > div {
+        margin: 6.5px !important;
+    }
 }
 
 #box-1, #box-2, #box-3 {
